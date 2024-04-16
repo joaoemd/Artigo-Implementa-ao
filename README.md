@@ -15,6 +15,12 @@ O código implementa o cálculo do imposto de importação para três produtos d
 - `README.md`: Este arquivo README que descreve o projeto.
 - `Artigo Implementação e Otimização.pdf`: Artigo explicativo sobre a implementação e otimização do código em formato ABNT.
 
+  ## Funcionalidades
+O programa permite calcular o imposto de importação para três produtos diferentes, solicitando ao usuário os valores dos produtos e a taxa de imposto em porcentagem. Após inserir os valores, o programa calcula o imposto para cada produto e exibe o resultado na tela.
+
+## Implementação e Otimização
+O código foi inicialmente implementado com base em conceitos de estruturas de dados como fila e pilha para armazenar os valores dos produtos e seus impostos correspondentes. Em seguida, foram realizadas otimizações para reduzir o uso de memória e aumentar a velocidade de execução do código.
+
 ## Artigo
 
 O projeto inclui um artigo explicativo sobre a implementação e otimização do código em formato ABNT. O artigo aborda a estrutura do código, as otimizações realizadas, e inclui informações sobre as referências utilizadas na pesquisa.
