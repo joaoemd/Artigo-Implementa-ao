@@ -1,6 +1,6 @@
 # Cálculo de Imposto de Importação em C
 
-Este repositório contém um código em linguagem C para calcular o imposto de importação de produtos, juntamente com otimizações para melhorar sua eficiência e desempenho. O projeto também inclui um artigo explicativo sobre a implementação e otimização do código.
+Este repositório tem um código em linguagem C para calcular o imposto de importação, junto com otimizações para melhorar sua eficiência e desempenho. O projeto também inclui um artigo explicativo sobre a implementação e otimização do código.
 
 ## Descrição
 
